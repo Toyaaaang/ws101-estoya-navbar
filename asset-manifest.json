@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-estoya-navbar/static/css/main.6e6dec8d.css",
+    "main.js": "/ws101-estoya-navbar/static/js/main.6e256477.js",
+    "index.html": "/ws101-estoya-navbar/index.html",
+    "main.6e6dec8d.css.map": "/ws101-estoya-navbar/static/css/main.6e6dec8d.css.map",
+    "main.6e256477.js.map": "/ws101-estoya-navbar/static/js/main.6e256477.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e6dec8d.css",
+    "static/js/main.6e256477.js"
+  ]
+}
